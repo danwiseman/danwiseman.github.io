@@ -1,6 +1,6 @@
 # Setup
 title: Dan Wiseman
-tagline: Dan's Site
+tagline: The Wiseman
 url: https://danwiseman.github.io
 paginate: 1
 baseurl: ""
@@ -34,7 +34,7 @@ sass:
 # Specify the author for blog posts
 author:
   name: Dan Wiseman
-  url: https://twitter.com/dwiseman
+  url: https://twitter.com/dwiseman 
   email: daniel.wiseman@gmail.com
 
 # Custom vars
