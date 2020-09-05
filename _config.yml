@@ -3,7 +3,7 @@ title: Dan Wiseman
 tagline: The Wiseman
 url: https://danwiseman.github.io
 paginate: 1
-baseurl: ""
+baseurl: "/"
 permalink: pretty
 
 # Gems
