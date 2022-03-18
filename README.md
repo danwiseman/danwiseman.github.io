@@ -4,6 +4,9 @@ This is a work in progress. But soon!
 
 ### Certifications
 
+#### Confluent
+[![CCDAK](/certs/ccdak.png)](https://www.credential.net/c3705c5f-13ef-4359-b5c1-bf18e37d8c1e)
+
 #### CompTIA
 
 [![Sec+](/certs/comptia-security-ce-certification.png)](https://www.credly.com/badges/49b8e046-f603-492d-808e-1b8d3ff6e140/public_url)
