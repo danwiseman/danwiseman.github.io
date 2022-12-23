@@ -2,6 +2,8 @@
 
 This is the personal/professional page for Dan Wiseman.
 
+[![Not Available for Work Badge](https://img.shields.io/badge/Available_For_Work-Not_ATM-red.svg)](https://shields.io/)
+
 ### About
 
 :wave: Hi, I'm a Senior Data Engineer that enjoys :mountain_biking_man: 
