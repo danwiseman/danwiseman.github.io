@@ -1,3 +1,6 @@
+---
+title: dan the data . engineer 
+---
 ## Dan the Data . Engineer
 
 This is the personal/professional page for Dan Wiseman.
