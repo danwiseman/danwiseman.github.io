@@ -1,11 +1,13 @@
-## Welcome to Dan the Data . Engineer
+## Dan the Data . Engineer
 
 This is the personal/professional page for Dan Wiseman.
 
 ### About
 
 :wave: Hi, I'm a Senior Data Engineer that enjoys :mountain_biking_man: 
-mountain biking and old Toyotas.
+mountain biking and old :blue_car: Toyotas. I'm not really interested in
+pursuring new opportunities at this time, but you can still connect with me
+with the links below.
 
 #### Connect with me:
 
