@@ -11,7 +11,7 @@ mountain biking and old :blue_car: Toyotas. I'm not really interested in
 pursuring new opportunities at this time, but you can still connect with me
 with the links below.
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+![forthebadge](assets/works-for-land-cruiser-parts.svg)
 
 #### Connect with me:
 
