@@ -34,9 +34,9 @@ I'm skilled in the following tools among others.
 
 I'm also certified with many tools and processes.
 
-* <a title="CompTIA, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Comptia-logo.svg"><img width="100" alt="Comptia-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Comptia-logo.svg/128px-Comptia-logo.svg.png" width="100" align="center"></a>
-* <a title="Microsoft Corporation, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg"><img width="100" alt="Microsoft logo (2012)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/512px-Microsoft_logo_%282012%29.svg.png" width="100" align="center"></a>
-* <a href="#"><img src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg" width="100" align="center" alt="puppet"></a> 
-* <a title="Confluent, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Confluent_Logo.png"><img width="100" align="center" alt="Confluent Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Confluent_Logo.png/128px-Confluent_Logo.png"></a>
-* <a href="#"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" width="100" alt="databricks" align="center" /></a>
+<a title="CompTIA, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Comptia-logo.svg"><img width="100" alt="Comptia-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Comptia-logo.svg/128px-Comptia-logo.svg.png" width="100" align="center"></a>
+<a title="Microsoft Corporation, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg"><img width="100" alt="Microsoft logo (2012)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/512px-Microsoft_logo_%282012%29.svg.png" width="100" align="center"></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg" width="100" align="center" alt="puppet"></a> 
+<a title="Confluent, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Confluent_Logo.png"><img width="100" align="center" alt="Confluent Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Confluent_Logo.png/128px-Confluent_Logo.png"></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" width="100" alt="databricks" align="center" /></a>
 
