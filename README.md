@@ -11,6 +11,8 @@ mountain biking and old :blue_car: Toyotas. I'm not really interested in
 pursuring new opportunities at this time, but you can still connect with me
 with the links below.
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+
 #### Connect with me:
 
 <a href="https://linkedin.com/in/danwiseman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danwiseman" height="30" width="40" /></a>
