@@ -1,7 +1,5 @@
 ## Dan the Data . Engineer
 
-This is the personal/professional page for Dan Wiseman.
-
 [![Not Available for Work Badge](https://img.shields.io/badge/Available_For_Work-Not_ATM-red.svg)](https://shields.io/)
 
 ### About
@@ -39,7 +37,7 @@ I'm also certified with many tools and processes.
 * <a title="CompTIA, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Comptia-logo.svg"><img width="100" alt="Comptia-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Comptia-logo.svg/128px-Comptia-logo.svg.png" width="100" align="center"></a>: A+, Network+, Security+, Linux+
 * <a title="Microsoft Corporation, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg"><img width="100" alt="Microsoft logo (2012)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/512px-Microsoft_logo_%282012%29.svg.png" width="100" align="center"></a>: MCSE Cloud Platform and Infrastructure, MCSA Server 2012
 * EC-Council: CEHv9, CHFI
-* <a href=""><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/puppet.svg" width="100" align="center" alt="puppet"></a> Enterprise Professional
+* <a href="#"><img src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg" width="100" align="center" alt="puppet"></a> Enterprise Professional
 * <a title="Confluent, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Confluent_Logo.png"><img width="100" align="center" alt="Confluent Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Confluent_Logo.png/128px-Confluent_Logo.png"></a> Certified Developer for Apache Kafka
-* Databricks Lakehouse Fundamentals
+* <a href="#"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" width="100" alt="databricks" align="center"/></a> Lakehouse Fundamentals
 
