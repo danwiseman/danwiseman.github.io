@@ -20,7 +20,7 @@ with the links below.
 
 ### Projects
 
-Currently, I am working on EDH Yoga, an AI-driven Commander deck
+<i class="fa-duotone fa-scroll-old"></i> Currently, I am working on EDH Yoga, an AI-driven Commander deck
 creation and optimization engine. 
 
 ### Skillset
