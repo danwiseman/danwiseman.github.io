@@ -39,5 +39,5 @@ I'm also certified with many tools and processes.
 * EC-Council: CEHv9, CHFI
 * <a href="#"><img src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg" width="100" align="center" alt="puppet"></a> Enterprise Professional
 * <a title="Confluent, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Confluent_Logo.png"><img width="100" align="center" alt="Confluent Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Confluent_Logo.png/128px-Confluent_Logo.png"></a> Certified Developer for Apache Kafka
-* <a href="#"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" width="100" alt="databricks" align="center"/></a> Lakehouse Fundamentals
+* <a href="#"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" width="100" alt="databricks" align="center" /></a> Lakehouse Fundamentals
 
