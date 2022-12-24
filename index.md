@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ## Dan the Data . Engineer
 
 [![Not Available for Work Badge](https://img.shields.io/badge/Available_For_Work-Not_ATM-red.svg)](https://shields.io/)
@@ -15,16 +19,6 @@ with the links below.
 
 <a href="https://linkedin.com/in/danwiseman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danwiseman" height="30" width="40" /></a>
 <a href="https://github.com/danwiseman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="30" /></a>
-
-### Articles
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
 ### Projects
 
