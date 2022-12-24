@@ -1,6 +1,8 @@
 ## Dan the Data . Engineer
 
 [![Not Available for Work Badge](https://img.shields.io/badge/Available_For_Work-Not_ATM-red.svg)](https://shields.io/)
+[![Not Available for Work Badge](https://img.shields.io/badge/Powered_By-Coffee-green.svg)](https://shields.io/)
+
 
 ### About
 
@@ -9,8 +11,6 @@ mountain biking and old :blue_car: Toyotas. I'm not really interested in
 pursuring new opportunities at this time, but you can still connect with me
 with the links below.
 
-![forthebadge](/assets/works-for-land-cruiser-parts.svg)
-
 #### Connect with me:
 
 <a href="https://linkedin.com/in/danwiseman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danwiseman" height="30" width="40" /></a>
@@ -18,8 +18,7 @@ with the links below.
 
 ### Projects
 
-<i class="fa-duotone fa-scroll-old"></i> Currently, I am working on EDH Yoga, an AI-driven Commander deck
-creation and optimization engine. 
+Currently, I'm working on projects...
 
 ### Skillset
 
