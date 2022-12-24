@@ -6,30 +6,23 @@
         <div class="footer-col-wrapper">
             <div class="footer-col">
                 <p class="feed-subscribe">
-                    <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
-                        <svg class="svg-icon orange">
-                            <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-                        </svg><span>Subscribe</span>
-                    </a>
+
                 </p>
-                {%- if site.author %}
-                <ul class="contact-list">
-                    {% if site.author.name -%}
-                    <li class="p-name">{{ site.author.name | escape }}</li>
-                    {% endif -%}
-                    {% if site.author.email -%}
-                    <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-                    {%- endif %}
-                </ul>
-                {%- endif %}
+                <p>
+                    <a href="https://linkedin.com/in/danwiseman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danwiseman" height="30" width="40" /></a>
+                    <a href="https://github.com/danwiseman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="30" /></a>
+                </p>
             </div>
             <div class="footer-col">
-                <p>{{ site.description | escape }}</p>
+                <p>:wave: Hi, I'm a Senior Data Engineer that enjoys :mountain_biking_man:
+                    mountain biking and old :blue_car: Toyotas. I'm not really interested in
+                    pursuring new opportunities at this time, but you can still connect with me
+                    with the links below.</p>
             </div>
         </div>
 
         <div class="social-links">
-            {%- include social.html -%}
+            {%- include social.md -%}
         </div>
 
     </div>

@@ -1,0 +1,5 @@
+[![Comptia Certified Badge](https://img.shields.io/badge/CompTIA-Linux+_&_Sec+-blue.svg?labelColor=red&style=for-the-badge)](https://comptia.org/)
+[![Confluent Certified Badge](https://img.shields.io/badge/Confluent-Kafka_Developer-515dff.svg?labelColor=9cf&logo=apachekafka&style=for-the-badge)](https://confluent.io/)
+[![Databricks Certified Badge](https://img.shields.io/badge/Databricks-Data_Engineer_Associate-a9aaff.svg?style=for-the-badge&logo=databricks&labelColor=333)](https://databricks.com/)
+[![LinkedIn Certified Badge](https://img.shields.io/badge/Too_Many_certs-Check_Linked_In-blue.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/danwiseman)
+[![Land Cruiser Badge](https://img.shields.io/badge/Toyota-Land_Cruiser_owner-orange.svg?style=for-the-badge&logo=toyota&labelColor=eee&logoColor=333)](https://ih8mud.com)
