@@ -1,6 +1,8 @@
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jemoji
+minima:
+  skin: dark
 
 title: dan the data . engineer
 description: The personal and professional space for Dan Wiseman
